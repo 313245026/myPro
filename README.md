@@ -1,2 +1,12 @@
 # myPro
 一些平时工作的例子
+
+
+[MarkDown 在线编辑文档](https://stackedit.io/editor)
+==========
+
+[QT 5.7 5.9 2015 静态库编译](https://blog.csdn.net/lixiaoxin1989/article/details/53838277)
+==========
+
+[网易云售 SKD相关文档](http://netease.im/?from=nim&clueFrom=nim)
+==========
